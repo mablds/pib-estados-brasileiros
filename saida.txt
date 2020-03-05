@@ -1,0 +1,2 @@
+pib da regiao X = $$$$pib.txt
+pib da regiao Y = $$$$
